@@ -28,7 +28,7 @@ I focus on delivering **clean, production-ready code** with value-first approach
 ## 🛠 Skills
 
 ### Languages & Databases
-- JavaScript, SQL  
+- JavaScript, Python, SQL  
 - MongoDB, PostgreSQL  
 
 ### Frontend & Backend
@@ -51,8 +51,8 @@ I focus on delivering **clean, production-ready code** with value-first approach
 ## 🏆 Experience
 
 **PGE - Pangea Global Enterprises**  
-- Technical Department Lead | Apr 2025 – Sep 2025  
-- AI Engineer | Jan 2025 – Sep 2025  
+- Technical Department Lead | Apr 2025 – Current 
+- AI Engineer | Jan 2025 – Apr 2025  
 
 **KAZ Technologies (IT Consultancy & Services)**  
 - Data Analyst | Nov 2023 – Oct 2024  
